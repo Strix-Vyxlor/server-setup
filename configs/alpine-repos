@@ -1,0 +1,4 @@
+#/media/nvme0n1/apks
+http://eu.edge.kernel.org/alpine/edge/main
+http://eu.edge.kernel.org/alpine/edge/community
+http://eu.edge.kernel.org/alpine/edge/testing
